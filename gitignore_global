@@ -1,0 +1,4 @@
+.DS_Store
+*/.DS_Store
+[core] **
+excludesfile = /Users/reon/.gitignore_global **
